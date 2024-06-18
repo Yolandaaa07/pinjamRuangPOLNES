@@ -1,0 +1,90 @@
+Starting file upload
+Target Directory: C:\xampp\htdocs\pinjamRuang\peminjam\proses/uploads/
+Target File: C:\xampp\htdocs\pinjamRuang\peminjam\proses/uploads/Lembar PertanggungJawaban BA 2023.pdf
+File upload error: 0
+Starting file upload
+Array
+(
+    [doc] => Array
+        (
+            [name] => Lembar PertanggungJawaban BA 2023.pdf
+            [full_path] => Lembar PertanggungJawaban BA 2023.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\phpD8FA.tmp
+            [error] => 0
+            [size] => 1727066
+        )
+
+)
+Target Directory: C:\xampp\htdocs\pinjamRuang\peminjam\proses/uploads/
+Target File: C:\xampp\htdocs\pinjamRuang\peminjam\proses/uploads//Lembar PertanggungJawaban BA 2023.pdf
+File upload error: 0
+Starting file upload
+Array
+(
+    [doc] => Array
+        (
+            [name] => Lembar PertanggungJawaban BA 2023.pdf
+            [full_path] => Lembar PertanggungJawaban BA 2023.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\php7875.tmp
+            [error] => 0
+            [size] => 1727066
+        )
+
+)
+Target Directory: C:\xampp\htdocs\pinjamRuang\peminjam\prosesuploads/
+Target File: C:\xampp\htdocs\pinjamRuang\peminjam\prosesuploads//Lembar PertanggungJawaban BA 2023.pdf
+Directory created: C:\xampp\htdocs\pinjamRuang\peminjam\prosesuploads/
+File uploaded successfully
+Starting file upload
+Array
+(
+    [doc] => Array
+        (
+            [name] => Rundown Workshop.pdf
+            [full_path] => Rundown Workshop.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\phpBBF5.tmp
+            [error] => 0
+            [size] => 79488
+        )
+
+)
+Target Directory: C:\xampp\htdocs\pinjamRuang\peminjam\proses/uploads/
+Target File: C:\xampp\htdocs\pinjamRuang\peminjam\proses/uploads//Rundown Workshop.pdf
+File upload error: 0
+Starting file upload
+Array
+(
+    [doc] => Array
+        (
+            [name] => Rundown Workshop.pdf
+            [full_path] => Rundown Workshop.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\phpE6A6.tmp
+            [error] => 0
+            [size] => 79488
+        )
+
+)
+Target Directory: C:\xampp\htdocs\pinjamRuang\peminjam\prosesuploads/
+Target File: C:\xampp\htdocs\pinjamRuang\peminjam\prosesuploads//Rundown Workshop.pdf
+File uploaded successfully
+Starting file upload
+Array
+(
+    [doc] => Array
+        (
+            [name] => Gen Z Indonesia for 2024.pdf
+            [full_path] => Gen Z Indonesia for 2024.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\php3572.tmp
+            [error] => 0
+            [size] => 5175567
+        )
+
+)
+Target Directory: C:\xampp\htdocs\pinjamRuang\peminjam\prosesuploads/
+Target File: C:\xampp\htdocs\pinjamRuang\peminjam\prosesuploads//Gen Z Indonesia for 2024.pdf
+File uploaded successfully
